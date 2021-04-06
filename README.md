@@ -1,2 +1,2 @@
 # simple-scala-spark-gradle
-Use PythonSparkInterpreterEntryPoint
+Use PythonSparkInterfaceEntryPoint.java
