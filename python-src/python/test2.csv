@@ -1,0 +1,3 @@
+Segment,Country,Product,Discount Band,Units Sold, Manufacturing Price , Sale Price , Gross Sales , Discounts ,  Sales , COGS , Profit ,Date,Month Number, Month Name ,Year
+govt,Canada, Carretera , None ,1618.5, $3.00 , $20.00 ," $32,370.00 ", $-   ," $32,370.00 "," $16,185.00 "," $16,185.00 ",1/1/2014,1, January ,2014
+govt,Germany, Carretera , None ,1321, $3.00 , $20.00 ," $26,420.00 ", $-   ," $26,420.00 "," $13,210.00 "," $13,210.00 ",1/1/2014,1, January ,2014
